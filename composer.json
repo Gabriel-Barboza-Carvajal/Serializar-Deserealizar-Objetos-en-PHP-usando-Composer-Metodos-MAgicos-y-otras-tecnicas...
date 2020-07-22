@@ -1,0 +1,15 @@
+{
+    "name": "vendor/x-m-l1",
+    "description": "Description of project XML1.",
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "symfony/serializer": "v5.1.0",
+        "symfony/property-access": "v5.1.0"
+    }
+}
